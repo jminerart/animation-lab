@@ -1,0 +1,19 @@
+#plants_1_{
+    fill: rgba(153, 153, 51, alpha);
+
+}
+
+#can{
+    fill: rgba(0, 102, 153, alpha);
+
+}
+
+#bees{
+    fill: rgba(255, 204, 102, alpha);
+
+}
+
+svg{
+    height:50%;
+    width: 50%;
+}
